@@ -1,5 +1,4 @@
-Java
-=====
+# Java
 
 Explode a War file
 

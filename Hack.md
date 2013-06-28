@@ -1,5 +1,4 @@
-Hack
-=====
+# Hack
 
   * [http://rubyforge.org/projects/smugmugrb/]
     - "Fork" this and move it to github

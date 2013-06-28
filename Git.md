@@ -1,5 +1,4 @@
-Git
-=====
+# Git
 
 Recreate a local copy of a remote tracking branch
 

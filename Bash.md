@@ -1,5 +1,4 @@
-Bash
-=====
+# Bash
 
 This will show you lines that contain _ERROR_ since the last start of the server
 

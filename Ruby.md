@@ -1,5 +1,4 @@
-Ruby
-=====
+# Ruby
 
 The best introduction to Ruby
 
