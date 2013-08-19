@@ -7,3 +7,7 @@ Explode a War file
 Add GC Logging
 
     -verbose:gc -Xloggc:<log dir>/gc.log.<app name>.`date +%Y%M%d%H%M%S` -XX:+PrintGCDateStamps -XX:+PrintGCDetails
+    
+Core Dump
+
+    jmap -dump:format=b,file=/tmp/filename <pid>
